@@ -1,4 +1,0 @@
-[build]
-base = "work1p1.html/"
-publish = "work1p1.html/build/"
-command = "yarn build"
